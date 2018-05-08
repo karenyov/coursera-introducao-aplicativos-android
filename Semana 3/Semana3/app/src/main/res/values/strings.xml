@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Semana3</string>
+    <string name="btnButton">Button</string>
+    <string name="aula_sobre_button">Aula sobre Button</string>
+    <string name="btntextview">TextView</string>
+    <string name="aula_sobre_textview">Aula sobre TextView</string>
+    <string name="btnEditText">EditText</string>
+    <string name="aula_sobre_edittext">Aula sobre EditText</string>
+    <string name="aula_sobre_checkbox">Aula sobre Checkbox</string>
+    <string name="btnCheckbox">Checkbox</string>
+    <string name="aula_sobre_radiobutton">Aula sobre RadioButton</string>
+    <string name="btnRadiobutton">RadioButton</string>
+    <string name="aula_sobre_spinner">Aula sobre Spinner</string>
+    <string name="btnSpinner">Spinner</string>
+    <string name="aula_sobre_listview">Aula sobre ListView</string>
+    <string name="btnListview">ListView</string>
+    <string name="btnclickme">Click me</string>
+    <string name="hint">Escreva Algo</string>
+    <string-array name="spinner_values">
+        <item>Primeira Opção</item>
+        <item>Segunda Opção</item>
+        <item>Terceira Opção</item>
+        <item>Quarta Opção</item>
+    </string-array>
+    <string-array name="listview_values">
+        <item>Primeira Opção</item>
+        <item>Segunda Opção</item>
+        <item>Terceira Opção</item>
+        <item>Quarta Opção</item>
+    </string-array>
+</resources>
