@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Semana4</string>
+    <string name="aula_sobre_relativelayout">aula sobre RelativeLayout</string>
+    <string name="btnRelativeLayout">RelativeLayout</string>
+    <string name="btnLinearLayout">LinearLayout</string>
+    <string name="aula_sobre_linearlayout">Aula sobre LinearLayout</string>
+    <string name="aula_sobre_gridlayout">Aula Sobre GridLayout</string>
+    <string name="GridLayout">GridLayout</string>
+    <string name="visualizar_projeto">Visualizar Projeto</string>
+    <string name="projeto_interface_gridlayout">Projeto Interface GridLayout</string>
+    <string name="projeto_interface_linearlayout">Projeto Interface LinearLayout</string>
+    <string name="projeto_interface_relativelayout">Projeto Interface RelativeLayout</string>
+    <string name="to_label">Para</string>
+    <string name="to_hint">Destinatários</string>
+    <string name="message">Escreva a Mensagem Aqui</string>
+    <string name="send">Enviar</string>
+    
+    <string-array name="spinner_values">
+        <item>Spinner 1</item>
+        <item>Spinner 2</item>
+        <item>Spinner 3</item>
+        <item>Spinner 4</item>
+    </string-array>
+</resources>
